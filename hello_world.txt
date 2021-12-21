@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World</title>
+</head>
+<body>
+<h1>Hello World!</h1>
+<p>This is my first attempt at committing changes to Git so I can push them up to Github for future reference.</p>
+<p>I also just noticed that I saved this as a .txt file... Nice!... I won't save it as HTML yet because
+    i'd like to learn a bit more before possibily creating an unnecessary headache.</p>
